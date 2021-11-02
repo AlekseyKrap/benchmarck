@@ -7,7 +7,7 @@ import {setRows, setColumns} from "./reduser";
 const TEST_COUNT = 5;
 
 function performanceStat(time) {
-    const standard = 5300;
+    const standard = 1300;
     return standard / time * 100
 }
 
