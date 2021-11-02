@@ -7,7 +7,7 @@ import {setRows, setColumns} from "./reduser";
 const TEST_COUNT = 5;
 
 function performanceStat(time) {
-    const standard = 1300;
+    const standard = 2400;
     return standard / time * 100
 }
 
@@ -58,6 +58,7 @@ function App() {
             setCount(v => ++v)
         }, 10)
     },[rows])
+
     useEffect(() => {
         if (count === TEST_COUNT) return;
         if (count > 1) {
@@ -67,6 +68,8 @@ function App() {
         }
     }, [count])
 
+    console.log({count})
+    console.log({rows})
     return (
         <div className="App">
             <header className="App-header">
