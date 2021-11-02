@@ -56,7 +56,7 @@ function App() {
         setTimeout(() => {
             if (count >= TEST_COUNT) return;
             setCount(v => ++v)
-        }, 1)
+        }, 10)
     },[rows])
     useEffect(() => {
         if (count === TEST_COUNT) return;
