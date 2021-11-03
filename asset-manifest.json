@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/benchmarck/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/benchmarck/static/js/main.890637a0.chunk.js",
-    "main.js.map": "/benchmarck/static/js/main.890637a0.chunk.js.map",
+    "main.js": "/benchmarck/static/js/main.fa82cc6c.chunk.js",
+    "main.js.map": "/benchmarck/static/js/main.fa82cc6c.chunk.js.map",
     "runtime-main.js": "/benchmarck/static/js/runtime-main.705d4cc2.js",
     "runtime-main.js.map": "/benchmarck/static/js/runtime-main.705d4cc2.js.map",
     "static/js/2.8ca59634.chunk.js": "/benchmarck/static/js/2.8ca59634.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.705d4cc2.js",
     "static/js/2.8ca59634.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.890637a0.chunk.js"
+    "static/js/main.fa82cc6c.chunk.js"
   ]
 }
